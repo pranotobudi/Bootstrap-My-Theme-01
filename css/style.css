@@ -7,3 +7,27 @@ body {
   border-bottom: #006ed6 3px solid;
   opacity: 0.8;
 }
+
+#home-section {
+  background: url('../img/plans-background.jpg');
+  background-repeat: no-repeat;
+  width: 100%;
+  min-height: 700px;
+}
+
+#home-section .dark-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background: rgba(0, 0, 0, 0.4);
+  min-height: 700px;
+}
+
+#home-section #home-inner {
+  padding-top: 150px;
+}
+
+#home-section .card-form {
+  opacity: 0.9;
+}
