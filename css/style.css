@@ -6,8 +6,14 @@ body {
 .navbar {
   border-bottom: #006ed6 3px solid;
   opacity: 0.8;
+  /* position: relative; */
+  position: fixed;
 }
-
+.myHeader {
+  /* position: relative; */
+  position: relative;
+  margin-top: 60px;
+}
 #home-section {
   background: url('../img/plans-background.jpg');
   background-repeat: no-repeat;
@@ -35,6 +41,13 @@ body {
 #explore-section .fas,
 #share-section .fas {
   background: #333;
+  color: #fff;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+#create-section .fas {
+  background: #555;
   color: #fff;
   padding: 5px;
   border-radius: 5px;
