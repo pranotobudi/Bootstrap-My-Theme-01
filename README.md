@@ -1,3 +1,10 @@
 # Bootstrap-My-Theme-01
 
-# what's included:
+# Lesson Learned:
+Navigation Bar
+form 
+icon
+layout
+background image
+modal
+content-section navbar-hightlighted scrollbar
