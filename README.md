@@ -1,10 +1,10 @@
 # Bootstrap-My-Theme-01
 
 # Lesson Learned:
-Navigation Bar
-form 
-icon
-layout
-background image
-modal
-content-section navbar-hightlighted scrollbar
+- Navigation Bar
+- flexbox layout
+- form 
+- icon
+- background image
+- modal
+- content-section navbar-hightlighted scrollbar
