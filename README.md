@@ -1,6 +1,6 @@
 # Bootstrap-My-Theme-01
 
-# Lesson Learned:
+# Bootstrap Features:
 - Navigation Bar
 - flexbox layout
 - form 
